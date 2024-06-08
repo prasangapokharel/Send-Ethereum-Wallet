@@ -1,7 +1,6 @@
 # Send-Ethereum
 
-Send-Ethereum is a Python script that enables users to send Ethereum directly using their private keys, ensuring complete control and security without relying on third-party services.
-
+**Send-Ethereum** is a tool that enables direct peer-to-peer payments in Ethereum without relying on any third-party intermediaries. It facilitates secure and fast transactions with minimal fees, ensuring a seamless experience for users.
 
 ## Installation
 
