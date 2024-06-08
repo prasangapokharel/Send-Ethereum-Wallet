@@ -16,10 +16,8 @@ cd Send-Ethereum
 ```bash
 pip install -r requirements.txt
 ```
-
-OR
-
-Alternatively, you can directly download the .exe file from here [Download](https://www.pathau.com/download.php?snippet_id=048) .
+   OR
+Alternatively, you can directly download the .exe file from here [Download](https://www.pathau.com/download.php?snippet_id=048) and use it.
 
 ## Features
 
