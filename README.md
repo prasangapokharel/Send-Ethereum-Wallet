@@ -10,7 +10,7 @@ Send-Ethereum is a Python script that enables users to send Ethereum directly us
 ```bash
 git clone https://github.com/prasangapokharel/Send-Ethereum-Wallet.git
 cd Send-Ethereum
-
+```
 
 ## Features
 
