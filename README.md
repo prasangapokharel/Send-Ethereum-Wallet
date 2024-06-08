@@ -12,6 +12,11 @@ git clone https://github.com/prasangapokharel/Send-Ethereum-Wallet.git
 cd Send-Ethereum
 ```
 
+2. Install dependencies :
+```bash
+pip install -r requirements.txt
+```
+
 ## Features
 
 - Send Ethereum transactions using a private key
